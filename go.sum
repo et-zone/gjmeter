@@ -1,0 +1,4 @@
+github.com/et-zone/httpclient v0.0.0-20210202093349-f8624b156fd1 h1:VgnQkL6W5/qWhB/gQIhQCuJXOvunfKh1l1E9IsvgPjg=
+github.com/et-zone/httpclient v0.0.0-20210202093349-f8624b156fd1/go.mod h1:cBbgqK2VvzfCe46Iil3WsZFVK+PkDV7Ie4rPZJqFZUc=
+github.com/et-zone/httpclient v0.0.0-20210202103626-adb144843482 h1:tw1sTwBHRQYBhddIV7RVC3eE6aUHBaKf/tH0OTbo/1c=
+github.com/et-zone/httpclient v0.0.0-20210202103626-adb144843482/go.mod h1:cBbgqK2VvzfCe46Iil3WsZFVK+PkDV7Ie4rPZJqFZUc=
